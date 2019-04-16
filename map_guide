@@ -1,0 +1,13 @@
+MAP SIZE: 11 rows * 28 Columns to cover entire screen
+
+Symbols:
+S = marks entry point of the enemies, should be placed at map border
+P = path which the enemies will follow
+R = corner from bottom to right
+U = corner from right to top
+L = corner from top to left
+D = corner from left to bottom
+G = marks end of path, where the enemies will attack a building
+T = building place for towers
+
+Other symbols will be interpreted as background and dont have any influence on the game
